@@ -1,0 +1,14 @@
+{
+  "name": "mongooseapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app1.js",
+  "scripts": {
+    "start": "nodemon CRUDOperations.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.0.10"
+  }
+}
